@@ -29,7 +29,9 @@ function App() {
     fileInputRef.current.click();
   }
 
-
+  useEffect(() => {
+    alert("This website is under updates soon it will be responsive 📱. Untill the mobile users are requested to enable the desktop mode on their mobile browser... Thanks for visiting 🍰!!!");
+  }, [])
 
   // Temporary solution for fixing the url value
   var stringValue = `${result}`

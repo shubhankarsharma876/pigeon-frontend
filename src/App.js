@@ -43,7 +43,8 @@ function App() {
       <div className='wrapper'>
         <h1>Simple file sharing!</h1>
         <p>Upload and share the download link.</p>
-        <p>Please try to upload the file to the website if the URL will not change! or make a website refresh.</p>
+        <p>Please try to upload the file to the website if the URL will not change!</p>
+        <p> or make a website refresh.</p>
         <p> ✅Copy to Clipboard!</p>
 
 

@@ -7,7 +7,10 @@ Client: [https://github.com/shubhankarsharma876/pigeon-frontend](https://github.
 Server: [https://github.com/shubhankarsharma876/pigeon-backend](https://github.com/shubhankarsharma876/pigeon-backend)
 
 ***
-Project Live at [Link](https://perfectpigeon.netlify.app/)
+Project Live at
+[Link1](https://perfectpigeon.vercel.app/)
+<br>
+[Link2](https://perfectpigeon.netlify.app/)
 
 ***
 ### Frontend

@@ -44,6 +44,7 @@ function App() {
         <h1>Simple file sharing!</h1>
         <p>Upload and share the download link.</p>
         <p>Please try to upload file to the website if the url will not change!</p>
+        <p>Due to testing services the first upload make take 2-3 attempts or website refresh.</p>
         <p> ✅Copy to Clipboard!</p>
 
 

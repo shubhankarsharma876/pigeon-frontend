@@ -7,8 +7,9 @@ function App() {
   const [file, setFile] = useState('');
   const [result, setResult] = useState('');
 
-  const fileInputRef = useRef();
+  const fileInputRef = useRef(); // to preserve the value before rendering.
 
+  //Image url
   const url = 'https://i.pinimg.com/originals/16/46/24/1646243661201a0892cc4b1a64fcbacf.jpg';
 
   useEffect(() => {
